@@ -1,0 +1,7 @@
+UPI fraud is a common cybercrime in India where attackers trick users into sending money or revealing sensitive information.
+
+Typically, the fraud begins with a phone call, message, or fake link. The attacker pretends to be from a bank or service provider and asks the user to share an OTP or scan a QR code. Once the user does this, money is deducted from their account.
+
+Students and new users are often targeted due to lack of awareness. The consequences include financial loss and stress.
+
+Such frauds are increasing due to the growth of digital payments and lack of digital awareness.
