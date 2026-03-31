@@ -1,20 +1,47 @@
-Introduction:
-This project focuses on digital literacy and its importance for students. It aims to help students understand how to use digital tools safely and effectively.
+PROJECT REPORT
 
-Task 1:
-I created an infographic using Canva explaining digital literacy, tools, safety, and email etiquette. It helped me understand how to present information visually.
+Digital Survival Kit for Freshers
+Name: Punyatirtha Sahoo
+Reg No: 25BHI10134
+Branch: Computer Science
+Year: First Year B.Tech
+Course Code: CSE0001 – Digital Literacy
+Date: 31st March 2026
 
-Task 2:
-I created profiles on GitHub and LinkedIn. These platforms help in building a professional online presence.
+Introduction
 
-Task 3:
-I solved a coding problem on HackerRank and created a Google Form quiz. These tools are useful for learning and collaboration.
+This project focuses on understanding and applying digital literacy skills that are essential for students in today’s digital world. As a Digital Ambassador, the goal was to create awareness and build a foundation for using digital tools effectively, communicating professionally, and staying safe online. The project is structured into five tasks, each covering a different aspect of digital literacy, including awareness, portfolio building, collaboration tools, communication, and cybersecurity.
 
-Task 4:
-I wrote professional emails and created a social media checklist. This helped me understand proper online communication.
+Task 1 – Infographic
 
-Task 5:
-I studied UPI fraud and created a prevention checklist. It helped me learn how to stay safe online.
+For this task, I created a digital literacy awareness infographic using Canva. The infographic titled “Digital Survival Kit for Freshers” highlights key concepts such as digital literacy, useful tools like GitHub and LinkedIn, safe internet practices, and email etiquette. The aim was to present important information in a visually appealing and easy-to-understand format.
 
-Conclusion:
-This project improved my understanding of digital tools, communication, and online safety.
+While creating the infographic, I found it interesting to organize multiple ideas into a single visual design. The challenge was to keep the content minimal while still conveying all essential points clearly.
+
+Task 2 – Digital Portfolio
+
+In this task, I created and updated my profiles on GitHub and LinkedIn. On GitHub, I set up my profile and added a basic introduction. On LinkedIn, I added my education details and a professional headline.
+
+These platforms are important for building a digital presence. GitHub is used to showcase projects and technical work, while LinkedIn helps in networking and professional visibility. Over the next four years, I plan to use these platforms to share my work, connect with professionals, and explore opportunities.
+
+Task 3 – Platforms
+
+For this task, I explored both coding and collaboration platforms. I completed a beginner-level coding challenge on HackerRank, which helped me understand basic problem-solving and programming logic.
+
+I also created a Google Form titled “Digital Literacy Quiz” with five questions related to digital awareness. This tool is useful for collecting responses and engaging with peers. These platforms will help me academically by improving my coding skills and enabling collaboration and data collection.
+
+Task 4 – Email Etiquette
+
+In this task, I wrote two professional emails: one requesting an assignment extension and another expressing interest in an internship opportunity. This helped me understand the importance of clear subject lines, polite tone, and proper structure in professional communication.
+
+Poor digital communication can lead to misunderstandings and missed opportunities. For example, an unclear or informal email to a professor may not receive a proper response. This can be avoided by following proper email etiquette and maintaining professionalism.
+
+Task 5 – Cybercrime Awareness
+
+For this task, I studied UPI fraud as a common cybercrime in India. I learned how attackers trick users into sharing sensitive information or scanning malicious QR codes, leading to financial loss.
+
+What surprised me most was how easily people can fall victim to such scams due to lack of awareness. As a result, I will be more cautious while making online transactions and will never share OTPs or sensitive information.
+
+Conclusion
+
+This project helped me understand the importance of digital literacy in everyday life. I learned how to use digital platforms, communicate professionally, and stay safe online. Overall, it has improved my confidence in using digital tools and prepared me for future academic and professional challenges.
