@@ -1,0 +1,11 @@
+- Never share OTP or PIN
+- Do not scan unknown QR codes
+- Verify payment requests carefully
+- Use official apps only
+- Enable app lock and security features
+- Avoid public WiFi for transactions
+- Monitor bank transaction alerts
+- Report fraud immediately
+
+Report at: cybercrime.gov.in
+Helpline: 1930
